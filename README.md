@@ -33,6 +33,3 @@ The graph dataset is composed of four CSV files, each storing a specific part of
   * `v`: target node of the edge
   * `feature_rel`: feature associated with the edge
 
----
-
-👉 Do you want me to also prepare this in a **Markdown table format** (columns vs. description) so it looks more polished in the README?
